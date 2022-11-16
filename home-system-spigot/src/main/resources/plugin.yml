@@ -1,0 +1,10 @@
+main: de.primeapi.landaniatest.homesystem.spigot.HomeSystem
+version: 1.0
+name: HomeSystem
+api-version: 1.19
+author: PrimeAPI
+commands:
+  sethome:
+  delhome:
+  home:
+  homes:
